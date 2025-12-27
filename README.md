@@ -95,6 +95,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 <img width="820" height="309" alt="m1-3 2" src="https://github.com/user-attachments/assets/25ba511f-72f2-48d7-adea-4fec786c6883" />
 
 # Result: 
+Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
